@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/shruthig-dev/page-fetcher#readme",
   "dependencies": {
-    "axios": "^0.20.0"
+    "axios": "^0.20.0",
+    "request": "^2.88.2"
   }
 }
