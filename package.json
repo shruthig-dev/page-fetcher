@@ -1,7 +1,7 @@
 {
-  "name": "request",
+  "name": "Page Downloader",
   "version": "1.0.0",
-  "description": "",
+  "description": "fetcher.js which will take a URL as a command-line argument as well as a local file path and download the resource to the specified path.",
   "main": "fetcher.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/shruthig-dev/page-fetcher.git"
   },
-  "author": "",
+  "author": "shruthi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shruthig-dev/page-fetcher/issues"
